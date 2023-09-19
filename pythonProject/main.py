@@ -15,4 +15,5 @@ if __name__ == '__main__':
 def fg(x):
     return x+1
 fg(2)
+# Put comment on merge
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
